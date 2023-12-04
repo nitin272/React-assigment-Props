@@ -1,0 +1,15 @@
+/* add your styles here */
+div{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+img{
+    height: 300px;
+    width: 550px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+}
+h1{
+    margin: 0 auto;
+}
